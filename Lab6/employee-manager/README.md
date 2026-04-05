@@ -6,7 +6,7 @@ A streamlined, secure web application built with **Laravel 13** to manage employ
 
 ## 📺 Video Demo
 Check out the project in action here: 
-**[Watch the Demo on Google Drive]([https://drive.google.com/file/d/your-dummy-link-here/view](https://drive.google.com/file/d/1bon8t7DMHMEVO5JA9ybCDRYkJSfiMIsz/view?usp=sharing))**
+**[Watch the Demo on Google Drive](https://drive.google.com/file/d/1bon8t7DMHMEVO5JA9ybCDRYkJSfiMIsz/view?usp=sharing)**
 
 ---
 
@@ -21,7 +21,8 @@ Check out the project in action here:
 
 ## ✨ Features
 * **Secure Authentication:** User registration and login powered by Laravel Breeze.
-* **Full CRUD Operations:** * **Create:** Add new employees with validation (Email, Position, Salary).
+* **Full CRUD Operations:**
+    * **Create:** Add new employees with validation (Email, Position, Salary).
     * **Read:** A clean, responsive dashboard listing all staff.
     * **Update:** Dynamic forms to edit existing employee details.
     * **Delete:** Secure removal of records with confirmation.
