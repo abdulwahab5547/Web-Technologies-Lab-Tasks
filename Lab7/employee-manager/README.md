@@ -1,5 +1,3 @@
-\<p align="center"\>\<a href="[https://laravel.com](https://laravel.com)" target="\_blank"\>\<img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg)" width="400" alt="Laravel Logo"\>\</a\>\</p\>
-
 # 🚀 Employee Management System (CRUD)
 
 A streamlined, secure web application built with **Laravel 13** to manage employee records. This project demonstrates core backend proficiency, including authentication, database migrations, and full CRUD functionality.
