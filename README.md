@@ -16,6 +16,7 @@ The project is organized into modular folders for easy navigation:
 - **Lab6/**: Advanced Dynamic Routing & Parameter Handling  
 - **Lab7/**: Laravel Employee Management System (CRUD)  
 - **Lab8/**: Laravel Advanced Features (Validation & Events)  
+- **Lab9 - Ecommerce/**: ShopUp — Full Laravel E-Commerce Platform  
 
 ---
 
@@ -99,5 +100,41 @@ Enhances the Employee Management System with more production-level backend pract
 - Laravel Events & Listeners (event-driven architecture)  
 - Middleware-based route protection  
 - Improved CRUD with validation layers  
+
+---
+
+### Lab 09: ShopUp — Laravel E-Commerce Platform
+
+A full-featured e-commerce web application built with Laravel 13. ShopUp covers the complete shopping journey — from browsing a curated product catalog to placing and tracking orders — and ships with a separate admin area for managing the store.
+
+#### 🛠️ Tech Stack
+- PHP 8.3+ & Laravel 13  
+- Blade Templates, Tailwind CSS, Alpine.js  
+- Vite for asset bundling  
+- SQLite database  
+- Laravel Breeze for authentication  
+
+#### ✨ Key Features
+**Storefront (Customer)**
+- Home page with featured products and category highlights  
+- Product catalog with category filtering and slug-based URLs  
+- Product detail pages with descriptions, pricing, and stock indicators  
+- Shopping cart that works for both guests and authenticated users  
+- Checkout flow with order confirmation  
+- Order history and detailed order summaries  
+- Account dashboard and profile management  
+
+**Authentication**
+- Registration, login, password reset, and email verification (Laravel Breeze)  
+- Middleware-protected customer area  
+
+**Admin Panel (`/admin`)**
+- Products CRUD with image uploads  
+- Categories CRUD  
+- Order management with status updates  
+- Admin dashboard with quick metrics  
+
+🎥 **Video Demo**:  
+https://drive.google.com/file/d/1Np9dnPloGeY9WnuVJk6A4WY4ZsyVGRAr/view?usp=sharing  
 
 ---
